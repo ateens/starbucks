@@ -597,8 +597,6 @@ header .badges .badge {
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
-.season-product .text-group .more {
-}
 
 /* RESERVE COFFEE */
 .reserve-coffee {
@@ -668,7 +666,7 @@ header .badges .badge {
   perspective: 600px;
 }
 .reserve-store .medal .front,
-.reserve-store .medal .back {
+₩ .reserve-store .medal .back {
   width: 334px;
   height: 334px;
   position: absolute;
